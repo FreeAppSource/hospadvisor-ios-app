@@ -1,0 +1,433 @@
+{
+ "app": "HospAdvisor iOS App",
+ "start": "onboarding-stp1",
+ "screens": [
+  {
+   "slug": "hospital",
+   "name": "hospital",
+   "page": "Hospitals",
+   "w": 375,
+   "h": 812,
+   "elements": 103,
+   "links": 7
+  },
+  {
+   "slug": "hospital-location",
+   "name": "hospital - location",
+   "page": "Hospitals",
+   "w": 375,
+   "h": 812,
+   "elements": 44,
+   "links": 5
+  },
+  {
+   "slug": "hospital-scroll-up",
+   "name": "hospital scroll up",
+   "page": "Hospitals",
+   "w": 375,
+   "h": 812,
+   "elements": 122,
+   "links": 8
+  },
+  {
+   "slug": "hospital-map",
+   "name": "hospital - map",
+   "page": "Hospitals",
+   "w": 375,
+   "h": 812,
+   "elements": 28,
+   "links": 2
+  },
+  {
+   "slug": "hospital-map-detail",
+   "name": "hospital - map - detail",
+   "page": "Hospitals",
+   "w": 375,
+   "h": 812,
+   "elements": 46,
+   "links": 2
+  },
+  {
+   "slug": "hospital-detail-feedback",
+   "name": "hospital - detail - feedback",
+   "page": "Hospitals",
+   "w": 375,
+   "h": 812,
+   "elements": 50,
+   "links": 10
+  },
+  {
+   "slug": "hospital-detail",
+   "name": "hospital - detail",
+   "page": "Hospitals",
+   "w": 375,
+   "h": 812,
+   "elements": 30,
+   "links": 7
+  },
+  {
+   "slug": "hospital-share",
+   "name": "hospital - share",
+   "page": "Hospitals",
+   "w": 375,
+   "h": 812,
+   "elements": 88,
+   "links": 6
+  },
+  {
+   "slug": "hospital-detail-hospital",
+   "name": "hospital - detail - hospital",
+   "page": "Hospitals",
+   "w": 375,
+   "h": 812,
+   "elements": 66,
+   "links": 9
+  },
+  {
+   "slug": "hospital-detail-hospital-scrollup",
+   "name": "hospital - detail - hospital - scrollUp",
+   "page": "Hospitals",
+   "w": 375,
+   "h": 812,
+   "elements": 90,
+   "links": 8
+  },
+  {
+   "slug": "hospital-detail-hospital-scrollup2",
+   "name": "hospital - detail - hospital - scrollUp2",
+   "page": "Hospitals",
+   "w": 375,
+   "h": 812,
+   "elements": 91,
+   "links": 6
+  },
+  {
+   "slug": "hospital-detail-statistic",
+   "name": "hospital - detail - statistic",
+   "page": "Hospitals",
+   "w": 375,
+   "h": 812,
+   "elements": 71,
+   "links": 6
+  },
+  {
+   "slug": "hospital-detail-information",
+   "name": "hospital - detail - information",
+   "page": "Hospitals",
+   "w": 375,
+   "h": 812,
+   "elements": 60,
+   "links": 7
+  },
+  {
+   "slug": "hospital-detail-feedback-focusinput",
+   "name": "hospital - detail - feedback - focusInput",
+   "page": "Hospitals",
+   "w": 375,
+   "h": 812,
+   "elements": 124,
+   "links": 1
+  },
+  {
+   "slug": "hospital-detail-feedback-send",
+   "name": "hospital - detail - feedback - send",
+   "page": "Hospitals",
+   "w": 375,
+   "h": 812,
+   "elements": 68,
+   "links": 1
+  },
+  {
+   "slug": "hospital-detail-feedback-scrollup",
+   "name": "hospital - detail - feedback - scrollUp",
+   "page": "Hospitals",
+   "w": 375,
+   "h": 812,
+   "elements": 71,
+   "links": 6
+  },
+  {
+   "slug": "hospital-search-success",
+   "name": "hospital - search - success",
+   "page": "Hospitals",
+   "w": 375,
+   "h": 812,
+   "elements": 124,
+   "links": 3
+  },
+  {
+   "slug": "hospital-search",
+   "name": "hospital - search",
+   "page": "Hospitals",
+   "w": 375,
+   "h": 812,
+   "elements": 113,
+   "links": 3
+  },
+  {
+   "slug": "hospital-search-not-found",
+   "name": "hospital - search - not found ",
+   "page": "Hospitals",
+   "w": 375,
+   "h": 812,
+   "elements": 119,
+   "links": 2
+  },
+  {
+   "slug": "profile",
+   "name": "profile",
+   "page": "Profile",
+   "w": 375,
+   "h": 812,
+   "elements": 76,
+   "links": 8
+  },
+  {
+   "slug": "settings",
+   "name": "settings",
+   "page": "Profile",
+   "w": 375,
+   "h": 812,
+   "elements": 62,
+   "links": 4
+  },
+  {
+   "slug": "about-app",
+   "name": "about app",
+   "page": "Profile",
+   "w": 375,
+   "h": 812,
+   "elements": 20,
+   "links": 1
+  },
+  {
+   "slug": "terms",
+   "name": "terms",
+   "page": "Profile",
+   "w": 375,
+   "h": 812,
+   "elements": 15,
+   "links": 1
+  },
+  {
+   "slug": "change-email",
+   "name": "change email",
+   "page": "Profile",
+   "w": 375,
+   "h": 812,
+   "elements": 110,
+   "links": 1
+  },
+  {
+   "slug": "change-pass",
+   "name": "change pass",
+   "page": "Profile",
+   "w": 375,
+   "h": 812,
+   "elements": 122,
+   "links": 1
+  },
+  {
+   "slug": "registration",
+   "name": "registration",
+   "page": "Login",
+   "w": 375,
+   "h": 812,
+   "elements": 25,
+   "links": 3
+  },
+  {
+   "slug": "login",
+   "name": "login",
+   "page": "Login",
+   "w": 375,
+   "h": 812,
+   "elements": 93,
+   "links": 4
+  },
+  {
+   "slug": "login-input-focus",
+   "name": "login - input focus",
+   "page": "Login",
+   "w": 375,
+   "h": 812,
+   "elements": 100,
+   "links": 3
+  },
+  {
+   "slug": "login-input-done",
+   "name": "login - input - done",
+   "page": "Login",
+   "w": 375,
+   "h": 812,
+   "elements": 103,
+   "links": 2
+  },
+  {
+   "slug": "login-input-error",
+   "name": "login - input - error",
+   "page": "Login",
+   "w": 375,
+   "h": 812,
+   "elements": 102,
+   "links": 2
+  },
+  {
+   "slug": "registration-input-focus",
+   "name": "registration - input focus",
+   "page": "Login",
+   "w": 375,
+   "h": 812,
+   "elements": 106,
+   "links": 2
+  },
+  {
+   "slug": "registration-input",
+   "name": "registration - input",
+   "page": "Login",
+   "w": 375,
+   "h": 812,
+   "elements": 35,
+   "links": 1
+  },
+  {
+   "slug": "registration-input-done",
+   "name": "registration - input - done",
+   "page": "Login",
+   "w": 375,
+   "h": 812,
+   "elements": 41,
+   "links": 2
+  },
+  {
+   "slug": "registration-input-error",
+   "name": "registration - input - error",
+   "page": "Login",
+   "w": 375,
+   "h": 812,
+   "elements": 42,
+   "links": 1
+  },
+  {
+   "slug": "registration-input-foces-scrollup",
+   "name": "registration - input foces - scrollUP",
+   "page": "Login",
+   "w": 375,
+   "h": 812,
+   "elements": 105,
+   "links": 2
+  },
+  {
+   "slug": "password-recovery",
+   "name": "password recovery",
+   "page": "Login",
+   "w": 375,
+   "h": 812,
+   "elements": 93,
+   "links": 2
+  },
+  {
+   "slug": "chekin",
+   "name": "chekin",
+   "page": "Check in",
+   "w": 375,
+   "h": 812,
+   "elements": 113,
+   "links": 4
+  },
+  {
+   "slug": "chekin-start",
+   "name": "chekin - start",
+   "page": "Check in",
+   "w": 375,
+   "h": 812,
+   "elements": 148,
+   "links": 2
+  },
+  {
+   "slug": "chekin-done",
+   "name": "chekin - done",
+   "page": "Check in",
+   "w": 375,
+   "h": 812,
+   "elements": 31,
+   "links": 3
+  },
+  {
+   "slug": "chekin-done-badfeedback",
+   "name": "chekin - done - badFeedback",
+   "page": "Check in",
+   "w": 375,
+   "h": 812,
+   "elements": 109,
+   "links": 3
+  },
+  {
+   "slug": "chekin-feedback",
+   "name": "chekin - feedback",
+   "page": "Check in",
+   "w": 375,
+   "h": 812,
+   "elements": 33,
+   "links": 2
+  },
+  {
+   "slug": "chekin-thankyou",
+   "name": "chekin - thankyou",
+   "page": "Check in",
+   "w": 375,
+   "h": 812,
+   "elements": 28,
+   "links": 1
+  },
+  {
+   "slug": "chekin-done-goodfeedback",
+   "name": "chekin - done - goodFeedback",
+   "page": "Check in",
+   "w": 375,
+   "h": 812,
+   "elements": 111,
+   "links": 3
+  },
+  {
+   "slug": "checkin-search",
+   "name": "checkin - search",
+   "page": "Check in",
+   "w": 375,
+   "h": 812,
+   "elements": 110,
+   "links": 2
+  },
+  {
+   "slug": "onboarding-stp1",
+   "name": "onboarding stp1",
+   "page": "Start screen",
+   "w": 375,
+   "h": 812,
+   "elements": 151,
+   "links": 3
+  },
+  {
+   "slug": "onboarding-stp2",
+   "name": "onboarding stp2",
+   "page": "Start screen",
+   "w": 375,
+   "h": 812,
+   "elements": 205,
+   "links": 3
+  },
+  {
+   "slug": "onboarding-stp3",
+   "name": "onboarding stp3",
+   "page": "Start screen",
+   "w": 375,
+   "h": 812,
+   "elements": 36,
+   "links": 3
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "inter"
+ ]
+}
